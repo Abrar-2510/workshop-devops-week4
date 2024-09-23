@@ -1,6 +1,4 @@
 
-
-
 ## Requirements
 
 1. **Terraform State File**:
@@ -25,4 +23,3 @@
      ```bash
      aws s3 cp <file_path> s3://<bucket_name>/logs/
      ```
-
